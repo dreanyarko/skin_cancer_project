@@ -1,1 +1,1 @@
-# skin_cancer_project
+# SKIN CANCER CLASSIFICATION PROJECT
