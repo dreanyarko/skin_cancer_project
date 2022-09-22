@@ -12,7 +12,6 @@ Training and validation statistics<br/>
 
 <br/>
 Deployment via Streamlit<br/>
-
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign1.png" width="300" height="300" />
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign2.png" width="300" height="300" />
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant1.png" width="300" height="300" />
