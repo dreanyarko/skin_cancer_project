@@ -5,7 +5,7 @@ In my quest to find a problem to solve in my closing year at college, I chanced 
 
 ## Have a Sneak Peak
 Training and validation statistics
-<img src="" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" />
 
 Deployment via Streamlit
 <img src="" />
