@@ -5,13 +5,12 @@ In my quest to find a problem to solve in my closing year at college, I chanced 
 
 ## Have a Sneak Peak
 Training and validation statistics<br>
-<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" width="400" height="400" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" width="300" height="300" />
 
 Deployment via Streamlit<br>
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign1.png" width="250" height="250" />
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign2.png" width="250" height="250" />
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant1.png" width="250" height="250" />
-<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant2.png" width="250" height="250" />
 
 ## Technologies Used
 <ul>
