@@ -8,9 +8,9 @@ Training and validation statistics
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" />
 
 Deployment via Streamlit
-<img src="" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign1.png" />
 
-<img src="" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant1.png" />
 
 ## Technologies Used
 <ul>
