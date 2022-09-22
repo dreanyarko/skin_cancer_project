@@ -15,7 +15,7 @@ Deployment via Streamlit
 ## Technologies Used
 <ul>
   <li>Python</li>
-  <liTensorFlow></li>
+  <li>TensorFlow></li>
   <liNumPy></li>
   <li>Pandas</li>
   <li>Matplotlib</li>
