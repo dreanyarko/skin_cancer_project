@@ -7,7 +7,6 @@ The goal of the project was to apply artificial intelligence and computer vision
 
 ## Have a Sneak Peak
 Training and validation statistics<br/>
-
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" width="400" height="300" />
 
 <br/>
