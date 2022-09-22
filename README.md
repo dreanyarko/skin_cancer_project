@@ -5,11 +5,11 @@ In my quest to find a problem to solve in my closing year at college, I chanced 
 
 The goal of the project was to apply artificial intelligence and computer vision using deep learning techniques to aid physicians detect the deadliest type of skin cancer, melanoma, very early. We developed a deep learning model to accurately classify skin lesions as either benign or malignant using Transfer Learning.
 
-## Have a Sneak Peak
+## Results - Have a Sneak Peak
 Training and validation statistics<br/>
-<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" width="400" height="300" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" width="400" height="400" />
 <br/><br/>
-Deployment via Streamlit<br/>
+Deployed via Streamlit<br/>
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign1.png" width="300" height="300" />
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign2.png" width="300" height="300" />
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant1.png" width="300" height="300" />
