@@ -10,9 +10,9 @@ Training and validation statistics<br>
 <img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/train_val.jpg" width="400" height="300" />
 <br>
 Deployment via Streamlit<br>
-<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign1.png" width="250" height="250" />
-<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign2.png" width="250" height="250" />
-<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant1.png" width="250" height="250" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign1.png" width="300" height="300" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/benign2.png" width="300" height="300" />
+<img src="https://github.com/dreanyarko/skin_cancer_project/blob/master/images/malignant1.png" width="300" height="300" />
 
 ## Technologies Used
 <ul>
